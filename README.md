@@ -5,4 +5,4 @@
 
 https://www.youtube.com/watch?v=wFXAjxpnD7c&ab_channel=DarkCode
 
-    The basic idea is from the tutorial but there are own things like js libraries fot animations, colors, background image and style changes
+    The basic idea is from the tutorial but there are mainly own things.
